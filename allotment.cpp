@@ -110,14 +110,14 @@ int main(){
         return 0;
     }
 
-    Departments.push_back(new Department("EVOLVE.csv", 40));
+    Departments.push_back(new Department("EVOLVE.csv", 20));
     Departments.push_back(new Department("O_IP.csv", 20));
     Departments.push_back(new Department("DAM.csv", 20));       
     Departments.push_back(new Department("WEBOPS.csv", 20));
     Departments.push_back(new Department("PUBLICITY.csv", 20));
     Departments.push_back(new Department("ENVISAGE.csv", 20));
     Departments.push_back(new Department("EVENTS_WORKSHOPS.csv", 20));
-    Departments.push_back(new Department("FINANCE.csv", 10));
+    Departments.push_back(new Department("FINANCE.csv", 20));
     Departments.push_back(new Department("SHOWS_EXHIBITIONS.csv", 20));
     Departments.push_back(new Department("SPONS_PR.csv", 20));
 
