@@ -40,7 +40,7 @@ class Department{
 };
 
 #define STUDENT_FILENAME "student.csv"
-#define NUM_OF_PREFERENCES 10 
+#define NUM_OF_PREFERENCES 5
 
 queue<Student*> students;
 vector<Department*> Departments;
